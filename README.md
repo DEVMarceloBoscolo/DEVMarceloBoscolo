@@ -8,6 +8,11 @@
 - 💡 Apaixonado por **análise de dados**, **automação** e **inteligência artificial**  
 
 ---
+<div align="center">
+
+![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM4aWpwbmgxaWplb3d5NjkxM3Q1YjdqcHo0dnM2bTFkZjFqcW04dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gYWeVOiMmbg3kzCTq5/giphy.gif)
+
+</div>
 
 ## 🛠 Tecnologias & Ferramentas
 
