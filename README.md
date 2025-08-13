@@ -1,4 +1,4 @@
-## Oi eu sou a Marcelo Boscolo, programação e tecnologia!
+## Oi eu sou a Marcelo Boscolo, desenvolvedor e analista!
 
 ---
 
