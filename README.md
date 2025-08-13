@@ -1,5 +1,4 @@
 ## Oi eu sou a Marcelo Boscolo, programação e tecnologia!
-# Olá, eu sou Marcelo Santos! 👋
 
 ---
 
@@ -27,31 +26,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelosantos&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosantos&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmarceloboscolo&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmarceloboscolo&layout=compact&theme=dracula)
 
----
-
-## 🚀 Projetos em Destaque
-
-- **[docker-java-armhf](https://github.com/marcelosantos/docker-java-armhf)** – Projeto para executar Java via Docker em ARM (Raspberry Pi).  
-- **[docker-pdi-armhf](https://github.com/marcelosantos/docker-pdi-armhf)** – Rodando PDI (Pentaho Data Integration) via Docker em ARM.  
-- **[python-web-scraping](https://github.com/marcelosantos/python-web-scraping)** – Projeto em Python com frameworks de scraping para aprendizado e testes.
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelosantos-dados)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white)](https://seuportifolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seutwitter)
-
----
-
-## 🔎 Visitas ao Perfil
-
-![Profile Views](https://komarev.com/ghpvc/?username=marcelosantos&color=blue)
 
 ---
 💬 *"Sempre buscando aprender, analisar e compartilhar conhecimento em dados."*
