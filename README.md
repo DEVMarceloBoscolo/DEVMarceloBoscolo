@@ -44,7 +44,7 @@
 
 <div align="center">
   
-  ![snake gif](https://github.com/FranciscoWan/FranciscoWan/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/DEVMarceloBoscolo/DEVMarceloBoscolo/edit/main/README.md)
   
 </div>
 
