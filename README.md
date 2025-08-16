@@ -3,7 +3,7 @@
 ---
 
 ## 👨‍💻 Sobre Mim
-- 💼 Desenvolvedor **Data Science & Full-Stack** | Python, SQL, Power BI. 
+- 💼 Desenvolvedor **Data Science & Full-Stack** | Python, SQL, Power BI, Tableu. 
 - 🌱 Atualmente aprendendo **Machine Learning Avançado** e **Deep Learning**  
 - 💡 Apaixonado por **análise de dados**, **automação** e **inteligência artificial**  
 
