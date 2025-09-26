@@ -69,14 +69,23 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devmarceloboscolo&show_icons=true&theme=radical&count_private=true&hide=issues)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmarceloboscolo&layout=compact&theme=radical&hide=html,css)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devmarceloboscolo&theme=radical)
 
 </div>
+## 🎯 **Challenge do Visitante**
 
+<div align="center">
+
+**🎁 Surpresa interativa - Tente adivinhar:**
+
+![Quiz](https://img.shields.io/badge/🤔-Qual_tecnologia_uso_mais?-yellow)
+![Answer](https://img.shields.io/badge/💡-JavaScript!-brightgreen)
+
+**✨ Curiosidade:** Este perfil muda baseado na hora do dia!  
+![Time](https://img.shields.io/badge/🕐-Agora_são_$(date +%H:%M)-lightgrey)
+
+</div>
 </div>
 
 ---
