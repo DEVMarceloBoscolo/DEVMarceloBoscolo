@@ -73,19 +73,7 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devmarceloboscolo&theme=radical)
 
 </div>
-// Efeito de digitação no header
-function typeWriter(element, text, speed = 100) {
-    let i = 0;
-    element.innerHTML = '';
-    function typing() {
-        if (i < text.length) {
-            element.innerHTML += text.charAt(i);
-            i++;
-            setTimeout(typing, speed);
-        }
-    }
-    typing();
-}
+
 </div>
 
 ---
