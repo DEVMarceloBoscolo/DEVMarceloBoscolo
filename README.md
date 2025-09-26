@@ -50,7 +50,21 @@
 
 
 
+### 🏆 **Skills em Tempo Real**
 
+<div align="center">
+
+**🚀 Tecnologias Principais**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**📊 Estatísticas ao Vivo**  
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.5%20million%20lines%20of%20code-blue)
+![Projects](https://img.shields.io/badge/🚀-25+%20Projects%20Completed-success)
+
+</div>
 
 ---
 💬 *"Sempre buscando aprender, analisar e compartilhar conhecimento em dados."*
