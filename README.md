@@ -73,19 +73,19 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devmarceloboscolo&theme=radical)
 
 </div>
-## 🎯 **Challenge do Visitante**
-
-<div align="center">
-
-**🎁 Surpresa interativa - Tente adivinhar:**
-
-![Quiz](https://img.shields.io/badge/🤔-Qual_tecnologia_uso_mais?-yellow)
-![Answer](https://img.shields.io/badge/💡-JavaScript!-brightgreen)
-
-**✨ Curiosidade:** Este perfil muda baseado na hora do dia!  
-![Time](https://img.shields.io/badge/🕐-Agora_são_$(date +%H:%M)-lightgrey)
-
-</div>
+// Efeito de digitação no header
+function typeWriter(element, text, speed = 100) {
+    let i = 0;
+    element.innerHTML = '';
+    function typing() {
+        if (i < text.length) {
+            element.innerHTML += text.charAt(i);
+            i++;
+            setTimeout(typing, speed);
+        }
+    }
+    typing();
+}
 </div>
 
 ---
