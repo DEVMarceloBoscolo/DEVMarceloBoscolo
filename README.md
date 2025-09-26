@@ -64,6 +64,19 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.5%20million%20lines%20of%20code-blue)
 ![Projects](https://img.shields.io/badge/🚀-25+%20Projects%20Completed-success)
 
+
+## 📈 **Minha Jornada em Números**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devmarceloboscolo&show_icons=true&theme=radical&count_private=true&hide=issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmarceloboscolo&layout=compact&theme=radical&hide=html,css)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devmarceloboscolo&theme=radical)
+
+</div>
+
 </div>
 
 ---
