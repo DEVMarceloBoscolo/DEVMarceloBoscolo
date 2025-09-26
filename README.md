@@ -45,7 +45,9 @@
 
 
 ## 📊 Estatísticas do GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmarceloboscolo&layout=compact&theme=dracula&repo=level-marketing-email-tool)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devmarceloboscolo&show_icons=true&theme=dracula&repo=level-marketing-email-tool)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmarceloboscolo&layout=compact&theme=dracula)
 
 
